@@ -12,7 +12,7 @@ UA = (
 )
 
 # ---- hardcoded proxy used for every account ----
-DEFAULT_PROXY = "socks5://95a76697ee0ed845-geo-us:3ddc6cc67805b966@gate-eu.vaultproxies.com:1080"
+DEFAULT_PROXY = "socks5://95a76697ee0ed845-geo-us:3ddc6cc67805b966@gate-eu.vaultproxies.com:80"
 
 WORKERS = {}
 
